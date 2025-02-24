@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm a passionate developer exploring the world of code and technology. Always eager to learn, build, and collaborate on exciting projects.  
 
+📧 Reach me at: o.kamenkovic@gmail.com
 <!--
 **giokmn/giokmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
